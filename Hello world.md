@@ -1,1 +1,3 @@
 ## Hello!
+
+Japan is amazing!
